@@ -1,0 +1,21 @@
+{
+  "name": "goop_traits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.4.7",
+    "fetch": "^1.1.0",
+    "http": "0.0.1-security",
+    "node": "^16.10.0",
+    "node-fetch": "^3.0.0",
+    "web3": "^1.6.0"
+  }
+}
